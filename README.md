@@ -1,5 +1,4 @@
-This Project mainly focused on data engineering and creating a data pipeline
-Integrate AWS S3 with Snowflake, allowing access for Snowflake to read, change, edit, and delete files in the S3 bucket:
+This Project mainly focused on data engineering and creating a data pipeline by Integrating AWS S3 with Snowflake, allowing access for Snowflake to read, change, edit, and delete files in the S3 bucket:
 
 - **Database and Schema Creation:**
   - Created a Snowflake database named `DATAANALYTICS`.
