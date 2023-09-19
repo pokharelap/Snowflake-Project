@@ -1,4 +1,4 @@
-This Project mainly focused on data engineering and creating a data pipeline by Integrating AWS S3 with Snowflake, allowing access for Snowflake to read, change, edit, and delete files in the S3 bucket:
+ Snowflake can be used to connect Tableau and Power BI but this project is more about engineering and creating a data pipeline by Integrating AWS S3 with Snowflake, allowing access for Snowflake to read, change, edit, and delete files in the S3 bucket:
 
 - **Database and Schema Creation:**
   - Created a Snowflake database named `DATAANALYTICS`.
